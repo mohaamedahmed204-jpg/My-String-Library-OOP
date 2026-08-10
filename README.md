@@ -1,14 +1,14 @@
 # 📌 Project 8: String Library (OOP)
 
 ## 📖 Table of Contents
-- [Project Overview](#-project-overview)
-- [Features](#-features)
-- [Concepts Applied](#-concepts-applied)
-- [Project Structure](#-project-structure)
-- [Example Usage](#-example-usage)
-- [Example Output](#-example-output)
-- [Future Improvements](#-future-improvements)
-- [Learning Source](#-learning-source)
+- [Project Overview]
+- [Features]
+- [Concepts Applied]
+- [Project Structure]
+- [Example Usage]
+- [Example Output]
+- [Future Improvements]
+- [Learning Source]
 
 ---
 
