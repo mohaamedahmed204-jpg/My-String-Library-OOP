@@ -4,6 +4,7 @@
 
 class clsString {
 private:
+    // The main string in the class 
     std::string _Value;
 
 public:
