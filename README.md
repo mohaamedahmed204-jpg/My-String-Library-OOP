@@ -1,4 +1,4 @@
-# 📌 String Library (OOP)
+# 📦 String Library (OOP)
 
 ## 📖 Table of Contents
 - [Project Overview]
