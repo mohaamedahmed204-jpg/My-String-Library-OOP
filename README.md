@@ -1,6 +1,6 @@
 # 📦 String Library (OOP)
 
-## 📖 Table of Contents
+## 🚀 Table of Contents
 - [Project Overview]
 - [Features]
 - [Concepts Applied]
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Project Overview
+## 📖 Project Overview
 This project was implemented as part of **Course 10** in the [Programming Advices](https://www.programmingadvices.com) Track by Dr. Mohamed Abouhadhood.
 
 The main idea is to reuse all the string-related functions we built earlier in **Course 7 – Algorithms & Problem Solving Level 3**, but instead of rewriting them, we collected them inside a separate header file (`clsString.h`) and wrapped them in a class to apply Object-Oriented Programming (OOP) principles.
